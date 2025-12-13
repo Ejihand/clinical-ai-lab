@@ -1,0 +1,15 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Python Safety ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environments (The Big One) ---
+.venv/
+venv/
+env/
+
+# --- Secrets (Never upload these) ---
+.env
