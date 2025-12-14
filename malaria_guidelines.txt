@@ -1,0 +1,23 @@
+CLINICAL GUIDELINES FOR MALARIA (2025 EDITION)
+
+1. DIAGNOSIS
+- The Gold Standard for diagnosis is Microscopic Examination of thick and thin blood films.
+- Rapid Diagnostic Tests (RDTs) detecting HRP2 antigen are recommended where microscopy is unavailable.
+- PCR is used for species confirmation but is not for initial treatment decisions.
+
+2. UNCOMPLICATED MALARIA TREATMENT (P. falciparum)
+- First-line: Artemisinin-based Combination Therapy (ACT).
+- Preferred option: Artemether-Lumefantrine (AL) for 3 days.
+- Dosage: 4 tablets twice daily for adults (>35kg).
+- Alternative: Artesunate-Amodiaquine (AS-AQ).
+
+3. SEVERE MALARIA TREATMENT
+- Immediate hospitalization is required.
+- First-line: Intravenous (IV) Artesunate (2.4 mg/kg) at 0, 12, and 24 hours.
+- If IV Artesunate is unavailable, use IM Artemether.
+- Follow up with a full 3-day course of oral ACT once the patient can tolerate oral medication.
+
+4. PREGNANCY
+- First Trimester: Quinine + Clindamycin is preferred.
+- Second/Third Trimester: Artemether-Lumefantrine (AL) is safe.
+- Intermittent Preventive Treatment (IPTp) with SP is recommended from the 2nd trimester.
